@@ -1,17 +1,21 @@
 # 💫 About Me:
 I hold a Master's degree in Artificial Intelligence and am actively seeking employment opportunities. I am passionate about programming and have a keen interest in research related to autonomous vehicles. My educational background and professional experiences have equipped me with a robust understanding of artificial intelligence, with a particular focus on computer vision and convolutional neural networks (CNNs).<br><br>
-Throughout my academic journey, I have engaged in various research projects, particularly in the realm of autonomous vehicles, where I have explored the integration of AI technologies to enhance vehicle perception and decision-making. I have also participated in multiple AI and science dissemination events, where I have presented my findings and shared insights with the broader community.<br><br>
 
 **Skills**<br>
-**Programming Languages**: Proficient in Python, C++, and JavaScript, with extensive experience in writing efficient, clean, and maintainable code.<br><br>
-**Machine Learning & Deep Learning**: Strong background in machine learning algorithms, deep learning architectures, and model optimization. Skilled in using frameworks such as TensorFlow, Keras, and PyTorch.<br><br>
-**Computer Vision**: Expertise in developing and implementing computer vision solutions, including image recognition, object detection, and image segmentation. Familiar with OpenCV and other computer vision libraries.<br><br>
-**Convolutional Neural Networks (CNNs)**: In-depth knowledge of CNNs, including designing, training, and fine-tuning models for various applications such as image classification and autonomous driving.<br><br>
-**Autonomous Systems**: Experience in the development and testing of autonomous systems, particularly in the context of autonomous vehicles. Knowledgeable in sensor fusion, SLAM (Simultaneous Localization and Mapping), and path planning algorithms.<br><br>
-**Data Analysis & Visualization**: Competent in data preprocessing, statistical analysis, and visualization techniques. Proficient in using tools like Pandas, NumPy, Matplotlib, and Seaborn to extract insights and present data effectively.<br><br>
-**Software Development**: Solid understanding of software development principles, version control with Git, and agile methodologies. Experience in collaborative projects and contributing to open-source software.<br><br>
-**Problem Solving & Analytical Thinking**: Strong problem-solving skills with the ability to analyze complex issues, develop innovative solutions, and implement them effectively.<br><br>
-**Communication & Teamwork**: Excellent communication skills, both written and verbal. Proven ability to work collaboratively in team environments and present technical concepts to non-technical audiences.<br><br>
+**Programming Languages**<br><br>
+**Machine Learning & Deep Learning**<br><br>
+**Computer Vision**<br><br>
+**Convolutional Neural Networks (CNNs)**<br><br>
+**Autonomous Systems**<br><br>
+**Data Analysis & Visualization**<br><br>
+
+## 📚 Education:
+- **Master's in Artificial Intelligence**, Universidad Veracruzana (2022 - 2024)
+- **Bachelor's in Mechatronics Engineering**, University Y (2015 - 2019)
+
+## 🏆 Achievements:
+- Published research papers in conference.
+- Speaker at multiple AI and technology conferences.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/David.Shenaider) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/david_velazcom) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-velazco-7671911a2/) 
