@@ -1,13 +1,13 @@
 # 💫 About Me:
 I hold a Master's degree in Artificial Intelligence and am actively seeking employment opportunities. I am passionate about programming and have a keen interest in research related to autonomous vehicles. My educational background and professional experiences have equipped me with a robust understanding of artificial intelligence, with a particular focus on computer vision and convolutional neural networks (CNNs).<br><br>
 
-**Skills**<br>
-**Programming Languages**<br><br>
-**Machine Learning & Deep Learning**<br><br>
-**Computer Vision**<br><br>
-**Convolutional Neural Networks (CNNs)**<br><br>
-**Autonomous Systems**<br><br>
-**Data Analysis & Visualization**<br><br>
+**Skills**<br><br>
+- **Programming Languages**<br><br>
+- **Machine Learning & Deep Learning**<br><br>
+- **Computer Vision**<br><br>
+- **Convolutional Neural Networks (CNNs)**<br><br>
+- **Autonomous Systems**<br><br>
+- **Data Analysis & Visualization**<br><br>
 
 ## 📚 Education:
 - **Master's in Artificial Intelligence**, Universidad Veracruzana (2022 - 2024)
