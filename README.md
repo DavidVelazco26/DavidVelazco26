@@ -11,7 +11,7 @@ I hold a Master's degree in Artificial Intelligence and am actively seeking empl
 
 ## 📚 Education:
 - **Master's in Artificial Intelligence**, Universidad Veracruzana (2022 - 2024)
-- **Bachelor's in Mechatronics Engineering**, University Y (2015 - 2019)
+- **Bachelor's in Mechatronics Engineering**, ITSX (2015 - 2019)
 
 ## 🏆 Achievements:
 - Published research papers in conference.
